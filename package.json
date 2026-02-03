@@ -2,6 +2,7 @@
   "name": "gbda304_m1_classnotes",
   "version": "0.1.0",
   "private": true,
+  "homepage": "/gbda304_m1_classnotes",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
